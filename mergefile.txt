@@ -5,4 +5,5 @@
 противоречащей
 ветке
 master
+one
   origin/branch1
